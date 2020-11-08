@@ -1,0 +1,45 @@
+
+  h3{
+     text-align:center; /* Aligns the h3 text */
+    text-decoration: underline;
+    text-indent 12px;
+      text-align:center;
+    }
+h1{
+  text align:center;
+  color:White;
+  font-weight:bold;
+  font-size:80px;
+  text-align:center;
+}
+
+myVideo {
+    width:20%;
+    height:50px;
+    margin:50px 75px 75px 50px;
+}
+
+body{
+  background-image: url("file:///home/chronos/u-b81b1672d8220394f8cd32071e49eb116589c142/MyFiles/Webpage/Kimbov2.jpg")
+}
+   p{
+    font-size: 20px;
+    text-align: Center;
+    font-style: italic;
+    }
+    h2{
+      text-align:center;
+      color:Black;
+    }
+.h{
+background-color:Grey;
+  border-radius: 20px;
+  margin: 50px 75px 75px 100px;
+  text-align:center;
+  font-size: 25px;
+}
+h4{
+  text-align:center;
+  color:black;
+  font-size:80px;
+}
